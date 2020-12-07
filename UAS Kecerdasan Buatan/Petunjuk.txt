@@ -1,1 +1,15 @@
-Silahkan Kumpulkan FIle UAS nya disini
+Selamat datang di repository Tugas Kecerdasan Buatan angkatan 2018 Sistem Komputer Fakultas Ilmu Komputer Universitas Sriwijaya
+
+Tugas dikumpulkan dalam bentuk jupyter notebook.
+
+Dengan Format :
+
+NIM_NAMA LENGKAP_KELAS A INDRALAYA_UAS
+
+NIM_NAMA LENGKAP_KELAS B INDRALAYA_UAS
+
+NIM_NAMA LENGKAP_KELAS BUKIT_UAS
+
+Jika ada file yang double, mohon dihapus salah satu dari kedua file tersebut Jika masih terdapat file yang double, maka file yang terbaru yang akan diterima
+
+Terima Kasih
